@@ -1,0 +1,3 @@
+com\anand\web\controller\WelcomeController.class
+com\anand\web\config\SpringConfig.class
+com\anand\web\WebInitializer.class
